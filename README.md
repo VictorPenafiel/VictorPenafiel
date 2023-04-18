@@ -6,7 +6,6 @@ También me gustaría hablar de una debilidad notoria, que es la falta de experi
 
 
 ## Me puedes contactar 🌎;
- - [Sitio](https://www.tusitioweb3.cl/)
  - [Linkedin](https://www.linkedin.com/in/victorpenafiel/)
  - [Twitter](https://twitter.com/newen_do)
  - [Instagram](https://www.instagram.com/newendochile/)
