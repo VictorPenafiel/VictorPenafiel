@@ -7,7 +7,6 @@ Te invito a revisar mi portafolio para conocer más sobre mis competencias.
 ## Me puedes contactar 🌎;
  - [Linkedin](https://www.linkedin.com/in/victorpenafiel/)
  - [Twitter](https://twitter.com/newen_do)
- - [Instagram](https://www.instagram.com/newendochile/)
  - [Facebook](https://www.facebook.com/victorpenafiel?_rdc=1&_rdr)
 <!--
 **VictorPenafiel/VictorPenafiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
