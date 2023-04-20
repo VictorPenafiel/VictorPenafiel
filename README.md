@@ -1,7 +1,7 @@
 ### Hola Yo Soy Víctor Peñafiel 👋
 
-Te agradezco que mires este portafolio donde he plasmado algunas de las competencias que poseo.
-
+Soy un desarrollador Full Stack especializado en Python, con más de 1 año de experiencia en el desarrollo y mantenimiento de software. Me caracterizo por mi habilidad para cumplir objetivos y mi compromiso con el aprendizaje continuo. Tengo una gran capacidad para asimilar nueva información y una curiosidad constante que me impulsa a buscar más conocimiento sobre las cosas. Mi enfoque en el trabajo en equipo y la resolución de problemas me permite contribuir de manera efectiva en proyectos desafiantes. Mi experiencia incluye, apoyar al tutor académico de un Bootcamp, la resolución de dudas de los alumnos y la revisión de trabajos y evaluaciones. Esto me ha permitido desarrollar habilidades en la evaluación y retroalimentación de los estudiantes. 
+Te invito a revisar mi portafolio para conocer más sobre mis competencias.
 
 
 ## Me puedes contactar 🌎;
