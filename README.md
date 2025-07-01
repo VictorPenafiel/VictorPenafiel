@@ -1,6 +1,6 @@
 ### Hola, soy Víctor Peñafiel 👋
 
-Como desarrollador con más de 2 años de experiencia, poseo una visión integral de la arquitectura de software y sus vulnerabilidades inherentes. Esta base técnica, sumada a mi innata curiosidad y mi compromiso con el aprendizaje continuo, me ha impulsado a especializarme en ciberseguridad ofensiva y defensiva, con el claro objetivo de consolidarme como Analista de Ciberseguridad(Purple Team).
+Como desarrollador con más de 2 años de experiencia, poseo una visión integral de la arquitectura de software y sus vulnerabilidades inherentes. Esta base técnica, sumada a mi innata curiosidad y mi compromiso con el aprendizaje continuo, me ha impulsado a especializarme en ciberseguridad ofensiva y defensiva, con el claro objetivo de consolidarme como Analista de Ciberseguridad (Purple Team).
 
 Mi experiencia en desarrollo me confiere una ventaja estratégica: entiendo cómo se construyen las aplicaciones desde cero. Esto me permite identificar proactivamente fallas de segurida (Red Team) y, al mismo tiempo, desarrollar e implementar soluciones robustas para fortalecer las defensas (Blue Team). 
 
