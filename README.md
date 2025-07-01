@@ -6,11 +6,6 @@ Mi experiencia en desarrollo me confiere una ventaja estratégica: entiendo cóm
 
 Mi experiencia incluye, apoyar a tutores académicos en Bootcamps de Python y Ciencia de Datos, donde mis responsabilidades incluían la resolución de dudas  de los alumnos y la revisión de trabajos. Esto me ha permitido desarrollar habilidades analíticas y mi capacidad para poder entregar retroalimentación constructiva a las personas. Mi enfoque en el trabajo en equipo y la resolución de problemas me permite contribuir de manera efectiva en proyectos desafiantes. 
 
-Actualmente, estoy explorando activamente oportunidades donde pueda aplicar mis habilidades técnicas y mi profunda pasión por la ciberseguridad para proteger sistemas y datos, contribuyendo a la creación de entornos digitales más seguros.
-
-Te invito a revisar mi portafolio para explorar mis proyectos y certificaciones en ciberseguridad, y descubrir cómo puedo agregar valor a tu equipo.
-
-
 ## Me puedes contactar 🌎;
  - [Linkedin](https://www.linkedin.com/in/victorpenafiel/)
  - [Twitter](https://twitter.com/newen_do)
