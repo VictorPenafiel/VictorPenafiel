@@ -4,7 +4,7 @@ Como desarrollador con más de 2 años de experiencia, poseo una visión integra
 
 Mi experiencia en desarrollo me confiere una ventaja estratégica: entiendo cómo se construyen las aplicaciones desde cero. Esto me permite identificar proactivamente fallas de segurida (Red Team) y, al mismo tiempo, desarrollar e implementar soluciones robustas para fortalecer las defensas (Blue Team). 
 
-Mi experiencia incluye, apoyar a tutores académicos en Bootcamps de Python y Ciencia de Datos, donde mis responsabilidades incluían la resolución de dudas  de los alumnos y la revisión de trabajos. Esto me ha permitido desarrollar habilidades analíticas y mi capacidad para poder entregar retroalimentación constructiva a las personas. Mi enfoque en el trabajo en equipo y la resolución de problemas me permite contribuir de manera efectiva en proyectos desafiantes. 
+Mi experiencia incluye, apoyar a tutores académicos en cursos de Python y Ciencia de Datos, donde mis responsabilidades incluían la resolución de dudas  de los alumnos y la revisión de trabajos. Esto me ha permitido desarrollar habilidades analíticas y mi capacidad para poder entregar retroalimentación constructiva a las personas. Mi enfoque en el trabajo en equipo y la resolución de problemas me permite contribuir de manera efectiva en proyectos desafiantes. 
 
 ## Me puedes contactar 🌎;
  - [Linkedin](https://www.linkedin.com/in/victorpenafiel/)
